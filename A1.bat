@@ -1,1 +1,1 @@
-echo "Running Git1.A1.bat @ %date% : %time%"
+echo "Running Git1.A1.bat with %date% : %time%"
